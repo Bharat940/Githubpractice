@@ -14,7 +14,7 @@ h1 {
   position: absolute;
   top: 50%;
   left: 50%;
-  color: #fff;
+  color: yellow;
   font-size: 80px;
   transform: translate(-50%, -50%);
 }
